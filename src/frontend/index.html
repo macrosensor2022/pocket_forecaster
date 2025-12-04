@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pocket Forecaster</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+<div class="container">
+    <h1>Pocket Forecaster</h1>
+
+    <label for="minBudget">Min Budget (₹)</label>
+    <input id="minBudget" type="number" placeholder="e.g., 10000">
+
+    <label for="maxBudget">Max Budget (₹)</label>
+    <input id="maxBudget" type="number" placeholder="e.g., 50000">
+
+    <label for="os">OS Preference</label>
+    <select id="os">
+        <option value="No Preference">No Preference</option>
+        <option value="Android">Android</option>
+        <option value="iOS">iOS</option>
+    </select>
+
+    <label for="usage">Usage Type</label>
+    <select id="usage">
+        <option value="1">Casual</option>
+        <option value="2">Entertainment</option>
+        <option value="3">Gaming</option>
+        <option value="4">Photography</option>
+        <option value="5">Productivity</option>
+    </select>
+
+    <button id="searchBtn">Find Recommendations</button>
+    <div id="loader" class="loader" style="display:none;"></div>
+
+    <h2>Recommended Phones</h2>
+
+    <div class="results-wrapper">
+        <div class="section">
+            <button class="accordion">Recommended Phones</button>
+            <div class="panel horizontal-scroll" id="mainPhones"></div>
+        </div>
+
+        <div class="section">
+            <button class="accordion">Additional Recommendations</button>
+            <div class="panel horizontal-scroll" id="additionalPhones"></div>
+        </div>
+
+        <div class="section">
+            <button class="accordion">Bonus Suggestions</button>
+            <div class="panel" id="bonusPhones"></div>
+        </div>
+    </div>
+</div>
+
+<!--  Footer Section  -->
+<footer class="footer">
+    <p>
+        <strong>Created by:</strong> Vinay Varshigan<br>
+        <strong>Tech Stack:</strong> Java • MVC Design Pattern • Strategy Pattern • Spark API •
+        HTML • CSS • JavaScript • NLP (VADER + BERT Hybrid Sentiment Analysis)
+    </p>
+</footer>
+
+<!--  About Project Modal  -->
+<div id="aboutModal" class="modal">
+    <div class="modal-content">
+        <span class="close-btn">&times;</span>
+        <h2>About Pocket Forecaster</h2>
+        <p>
+            <strong>Purpose:</strong> Pocket Forecaster is an intelligent smartphone recommendation system that suggests phones based on your budget, usage type, and OS preference.
+        </p>
+        <p>
+            <strong>Sentiment Analysis:</strong> Reviews are analyzed in real-time using a hybrid NLP model combining VADER and BERT to classify sentiments as Positive, Neutral, or Negative.
+        </p>
+        <p>
+            <strong>Key Highlights:</strong>
+        <ul>
+            <li>Java backend with Spark API</li>
+            <li>MVC & Strategy design patterns</li>
+            <li>Responsive frontend using HTML, CSS, JS</li>
+            <li>Dynamic recommendations with accordion panels</li>
+            <li>Bonus suggestions and real-time sentiment visualization</li>
+        </ul>
+        </p>
+    </div>
+</div>
+
+<!-- About Button near footer -->
+<div class="about-btn-container">
+    <button id="aboutBtn">ℹ️ About this Project</button>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>

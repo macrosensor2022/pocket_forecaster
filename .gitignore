@@ -1,0 +1,23 @@
+# Java / Maven
+/target/
+/out/
+*.class
+*.log
+*.jar
+*.war
+
+# IDE files
+/.idea/
+/.vscode/
+*.iml
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
+Thumbs.db
