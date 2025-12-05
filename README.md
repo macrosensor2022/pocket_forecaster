@@ -2,7 +2,7 @@
 
 ### *An AI-Powered Smartphone Recommendation System*
 
-**Status:** Project Completed — **Deployment Soon 🚀**
+**Status:** Project Completed — **Deployment Soon !!!**
 
 ---
 
@@ -15,7 +15,7 @@ Whether users are gamers, photographers, or casual users, Pocket Forecaster deli
 
 ---
 
-## 🗂️ Project Structure
+##  Project Structure
 
 ```
 pocket_forecaster/
@@ -39,7 +39,7 @@ pocket_forecaster/
 
 ##  Key Features
 
-### 1️⃣ Smart Filtering Engine
+### 1.  Smart Filtering Engine
 
 Filters phones based on:
 
@@ -47,13 +47,13 @@ Filters phones based on:
 * **Usage Type** (Gaming, Photography, Casual, Performance, etc.)
 * **OS Preference** (Android / iOS)
 
-### 2️⃣ Hybrid Sentiment Analysis (VADER + BERT)
+### 2️. Hybrid Sentiment Analysis (VADER + BERT)
 
 * Analyzes real customer reviews
 * Produces sentiment % (e.g., *89% Positive*)
 * Generates a one-line AI summary
 
-### 3️⃣ Personalized Add-ons
+### 3️. Personalized Add-ons
 
 Recommends:
 
@@ -62,18 +62,18 @@ Recommends:
 * Games
   based on user usage type.
 
-### 4️⃣ Batch Navigation
+### 4️. Batch Navigation
 
 If users want more options, the system loads the **next batch**, including premium devices.
 
-### 5️⃣ Clean & Modular Architecture
+### 5️. Clean & Modular Architecture
 
 * MVC Architecture
 * Strategy Design Pattern
 * Strong OOP implementation
 * JUnit test cases included
 
-### 6️⃣ Responsive Web Frontend
+### 6️. Responsive Web Frontend
 
 * Built using **HTML, CSS, JavaScript**
 * Clean and user-friendly interface
@@ -108,7 +108,7 @@ If users want more options, the system loads the **next batch**, including premi
 
 ---
 
-## 🔄 System Workflow
+##  System Workflow
 
 ```
 1. Load CSV datasets (specs, reviews, sentiment, add-ons)
