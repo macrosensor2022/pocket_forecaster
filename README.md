@@ -135,8 +135,9 @@ If users want more options, the system loads the **next batch**, including premi
       → Sentiment %
       → One-line summary
       → Buy Link
+      ->Additional mobile Recommendations
 6. Personalized Add-ons shown
-7. "Next Batch" option to load more phones
+
 ```
 
 ---
