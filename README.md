@@ -162,19 +162,13 @@ If users want more options, the system loads the **next batch**, including premi
 * COD Mobile / Asphalt 9 / PUBG New State
 
 ---
-
-
 ## 🎬 Demo Preview
 
 ### 🎞 GIF Preview  
 ![Pocket Forecaster Demo](assets/demo.gif)
-```
-
-### Direct Download Link:
 
 ### 📥 Full Video  
-[▶ Click here to watch the full demo video](demo.mp4)
-```
+[▶ Click here to watch or download the full demo video](https://raw.githubusercontent.com/macrosensor2022/pocket_forecaster/main/demo.mp4)
 
 ---
 
