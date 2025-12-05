@@ -6,6 +6,16 @@
 
 ---
 
+## 🎬 Demo Preview
+
+### 🎞 GIF Preview  
+![Pocket Forecaster Demo](https://raw.githubusercontent.com/macrosensor2022/pocket_forecaster/main/assets/demo.gif)
+
+### 📥 Full Video  
+[▶ Click here to watch or download the full demo video](https://raw.githubusercontent.com/macrosensor2022/pocket_forecaster/main/demo.mp4)
+
+---
+
 ##  Overview
 
 **Pocket Forecaster** is an AI-powered smartphone recommendation engine that suggests the best mobile phones based on **budget**, **usage type**, and **operating system**.
@@ -160,15 +170,6 @@ If users want more options, the system loads the **next batch**, including premi
 * Black Shark Cooling Fan
 * JBL Quantum Earbuds
 * COD Mobile / Asphalt 9 / PUBG New State
-
----
-## 🎬 Demo Preview
-
-### 🎞 GIF Preview  
-![Pocket Forecaster Demo](https://raw.githubusercontent.com/macrosensor2022/pocket_forecaster/main/assets/demo.gif)
-
-### 📥 Full Video  
-[▶ Click here to watch or download the full demo video](https://raw.githubusercontent.com/macrosensor2022/pocket_forecaster/main/demo.mp4)
 
 ---
 
