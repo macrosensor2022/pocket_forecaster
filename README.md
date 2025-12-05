@@ -163,20 +163,17 @@ If users want more options, the system loads the **next batch**, including premi
 
 ---
 
-## 🎬 Demo Video
 
-### Embedded Video (if file exists in repo):
+## 🎬 Demo Preview
 
-```html
-<video width="720" controls>
-  <source src="demo.mp4" type="video/mp4">
-</video>
+### 🎞 GIF Preview  
+![Pocket Forecaster Demo](assets/demo.gif)
 ```
 
 ### Direct Download Link:
 
-```markdown
-[▶ Click here to watch the demo video](demo.mp4)
+### 📥 Full Video  
+[▶ Click here to watch the full demo video](demo.mp4)
 ```
 
 ---
