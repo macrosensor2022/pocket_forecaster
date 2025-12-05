@@ -165,7 +165,7 @@ If users want more options, the system loads the **next batch**, including premi
 ## 🎬 Demo Preview
 
 ### 🎞 GIF Preview  
-![Pocket Forecaster Demo](assets/demo.gif)
+![Pocket Forecaster Demo](https://raw.githubusercontent.com/macrosensor2022/pocket_forecaster/main/assets/demo.gif)
 
 ### 📥 Full Video  
 [▶ Click here to watch or download the full demo video](https://raw.githubusercontent.com/macrosensor2022/pocket_forecaster/main/demo.mp4)
