@@ -224,9 +224,3 @@ If you like this project, please ⭐ the repository!
 It motivates future improvements.
 
 ---
-
-## 👤 Author
-
-**Vinay Varshigan SJ**
-MS in Computer Science – Northeastern University
-AI & ML Enthusiast | Cloud | NLP | Computer Vision
